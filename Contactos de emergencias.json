@@ -1,0 +1,23 @@
+[
+    {
+        "distrito": "Carmen Alto",
+        "serenazgo": "999748436",
+        "policia/comisaria": "964778499",
+        "bomberos (San Juan)": "066-302219",
+        "centro de salud": "066-639092"
+    },
+    {
+        "distrito": "Ayacucho",
+        "serenazgo": "999123456",
+        "policia/comisaria": "964123456",
+        "bomberos": "066-123456",
+        "centro de salud": "066-654321"
+    },
+    {
+        "distrito": "San Juan Bautista",
+        "serenazgo": "999654321",
+        "policia/comisaria": "964654321",
+        "bomberos": "066-654123",
+        "centro de salud": "066-321654"
+    }
+]
